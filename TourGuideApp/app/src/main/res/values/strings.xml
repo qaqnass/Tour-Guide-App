@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="hotel_title">Hotels</string>
+    <string name="hotel_detail">Find all Hotels here!</string>
+    <string name="food_title">Food and Drink</string>
+    <string name="food_detail">Find all restaurants here!</string>
+    <string name="hospital_title">Hospitals</string>
+    <string name="hospital_detail">Find all Hospital and pharmacies here!</string>
+    <string name="shop_title">Markets</string>
+    <string name="shop_detail">Find all Markets here!</string>
+</resources>
